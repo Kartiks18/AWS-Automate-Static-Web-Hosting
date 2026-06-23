@@ -1,0 +1,1 @@
+# AWS-Automate-Static-Web-Hosting
